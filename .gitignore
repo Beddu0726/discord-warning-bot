@@ -1,0 +1,4 @@
+.env
+warnings.db
+__pycache__/
+.venv/
